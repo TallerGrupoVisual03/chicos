@@ -7,6 +7,9 @@
 
         Console.WriteLine("Commit de Rosa")
 
+        Console.ReadLine()
+
+
     End Sub
 
 End Module
